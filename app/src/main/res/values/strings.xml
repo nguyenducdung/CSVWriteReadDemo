@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">CSV Write Read Demo</string>
+    <string name="name">Họ tên</string>
+    <string name="address">Địa chỉ</string>
+    <string name="ma_so_thue">Mã số thuế</string>
+    <string name="mat_hang">Mặt hàng</string>
+    <string name="gia_tien">Giá tiền</string>
+    <string name="create">Create</string>
+    <string name="commodity_code">Mã hàng hóa</string>
+    <string name="loai_hang_hoa">Loại hàng hóa</string>
+    <string name="numbers">Số lượng</string>
+    <string name="don_gia">Đơn giá</string>
+    <string name="show">Show</string>
+</resources>
